@@ -1,6 +1,6 @@
 package main;
 
-public class Exercitiul5 {
+public class T2Exercitiul5 {
 
 	public static void main(String[] args) {
 		int i=1;

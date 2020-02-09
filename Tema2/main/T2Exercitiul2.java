@@ -1,6 +1,6 @@
 package main;
 
-public class Exercitiul2 {
+public class T2Exercitiul2 {
 
 	public static void main(String[] args) {
 		double d=2.95;

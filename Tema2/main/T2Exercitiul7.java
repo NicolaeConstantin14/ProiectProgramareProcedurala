@@ -1,6 +1,6 @@
 package main;
 import java.util.Scanner;
-public class Exercitiul7 {
+public class T2Exercitiul7 {
 
 	public static void main(String[] args) {
 		 System.out.println("Insereaza un numar:");

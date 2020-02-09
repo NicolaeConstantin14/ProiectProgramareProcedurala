@@ -1,6 +1,6 @@
 package main;
 import java.util.Scanner;
-public class Exercitiul8 {
+public class T2Exercitiul8 {
 
 	public static void main(String[] args) {
 		System.out.println("Insereaza numarul zilei din saptamana, de la 1 la 7:");
