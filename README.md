@@ -1,1 +1,1 @@
-# ProiectProgramareProcedurala is a repository for a Java Beginner course exercises
+# ProiectProgramareProcedurala is a repository for Java Beginner course exercises
