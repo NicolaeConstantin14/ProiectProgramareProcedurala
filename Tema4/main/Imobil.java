@@ -17,6 +17,12 @@ public class Imobil {
 		this.nrEtaje = nrEtaje;
 		this.pret = pret;
 	}
+	  public Imobil(String tipCasa)
+       { 
+    	 tipCasa="";
+         nrEtaje = 0;
+         pret = 0;
+       }
 		
 	public void setTipCasa(String tipCasa) {
 		this.tipCasa = tipCasa;
